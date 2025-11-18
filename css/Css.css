@@ -1,0 +1,65 @@
+#fieldset1{
+    background-color: beige ;
+    width: auto;
+    height: auto;
+}
+
+h1, h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navigation{
+    text-align: center;  
+    padding: 15px;
+    background-color: burlywood;
+}
+
+#navigation a {
+    text-decoration: none;
+    font-size: 20px;
+} 
+
+#navigation a:hover {
+    color: purple; 
+    text-decoration: underline;
+} 
+
+#home{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+#about{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+#projects{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+#projects ul li{
+    list-style-type: none;
+    padding: 5px;
+}
+
+#projects li {
+    color: brown;
+    
+}
+
+#contact{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    border-bottom: 10%;
+}
+
+#footer {
+    background-color: bisque;
+}
